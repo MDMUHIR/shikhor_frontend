@@ -1,0 +1,10 @@
+{
+  "pid": 20092,
+  "startedAt": 1795023734246,
+  "interactive": true,
+  "command": "dev",
+  "cwd": "C:/Users/mdmuhir/Documents/Craft Anything/redwansmethod-com/app",
+  "port": 3000,
+  "hostname": "::1",
+  "url": "http://[::1]:3000"
+}
